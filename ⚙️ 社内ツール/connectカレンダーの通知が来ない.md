@@ -6,9 +6,10 @@
 - [connect > 環境設定](https://notify.navercorp.com/settings) のブラウザ版ポップアップ通知をONにする
 	-  ⚠️ connectカレンダーの通知はconnectトークを介してくるので「トーク」のチェックボックスにもチェックを入れること！
 - [カレンダー通知](https://calendar.navercorp.com/settings/notify)の設定を行う ※ `メール`ではなく`サービス通知`を利用
-- Chrome > アプリの設定 の「通知」をONにする
 - Mac設定 > 通知 ＞Google Chrome をONにする
-- ⚠️ connectカレンダーをchromeのアプリでインストールしている場合は Mac設定 > 通知 ＞Google Chrome Helper (Alerts) もONにする
+- connectカレンダーをchromeのアプリとしてインストールしている場合
+	- Chrome > アプリの設定 の「通知」をONにする
+	- Mac設定 > 通知 ＞Google Chrome Helper (Alerts) もONにする
 
 
 
