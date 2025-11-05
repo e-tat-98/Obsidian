@@ -6,3 +6,8 @@
 ## Pep up
 登録メアドは``tatsuki.eguchi@linecorp.com``になっているようだけど、このメアドも受信できそうに無いので、YG健康保険組合に「本人確認コード」をもらってそっちで登録が必要
 問い合わせメール: https://mail.navercorp.com/w/mark?t=1762304595629&mailSN=742&isUnselected=false
+
+## i-wellness
+`tatsuki.eguchi@ebookjapan.co.jp` のままになっているようで、その上パスワードも失念してしまったため再設定しようにもこのメールを見れる端末を持っておらず…
+
+成見さんが担当者に確認中…
